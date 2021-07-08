@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "BookFinder-Backend",
+      "author": "Shawan Mandal",
+      "pdate": "2021",
+      "tags": [
+        "backend",
+        "development",
+        "node.js",
+        "js",
+        "web development"
+      ]
+    }
+  ]
+}
